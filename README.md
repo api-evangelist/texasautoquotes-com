@@ -64,5 +64,122 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-texasautoquotes-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://texasautoquotes.com/
+Texas Auto Quotes provides auto insurance quote services for Texas residents through a network of licensed agents. Users can obtain price estimates without providing a phone number, and no sale is made without the user's explicit consent. The platform aggregates rates from multiple insurers, offering transparent comparisons and allowing customers to choose the best coverage. It operates as a quote service, not an insurer, and emphasizes privacy and data protection.
+
+**Areas:** Company · Insurance · Auto · Texas · Quotes · Marketplace
+
+## texasautoquotes-com on APIs.io
+
+Everything profiled for texasautoquotes-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/texasautoquotes-com/](https://apis.io/providers/texasautoquotes-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (14)
+
+- [texasautoquotes-com Agency API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-agency-api/) — The Agency API from texasautoquotes-com — 1 operation(s) for agency.
+- [texasautoquotes-com Benchmark API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-benchmark-api/) — The Benchmark API from texasautoquotes-com — 1 operation(s) for benchmark.
+- [texasautoquotes-com Consent Record API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-consent-record-api/) — The Consent Record API from texasautoquotes-com — 1 operation(s) for consent record.
+- [texasautoquotes-com Contact API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-contact-api/) — The Contact API from texasautoquotes-com — 1 operation(s) for contact.
+- [texasautoquotes-com Dataset API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-dataset-api/) — The Dataset API from texasautoquotes-com — 1 operation(s) for dataset.
+- [texasautoquotes-com Eligibility API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-eligibility-api/) — The Eligibility API from texasautoquotes-com — 1 operation(s) for eligibility.
+- [texasautoquotes-com Forget API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-forget-api/) — The Forget API from texasautoquotes-com — 1 operation(s) for forget.
+- [texasautoquotes-com Join API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-join-api/) — The Join API from texasautoquotes-com — 1 operation(s) for join.
+- [texasautoquotes-com Prices API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-prices-api/) — The Prices API from texasautoquotes-com — 1 operation(s) for prices.
+- [texasautoquotes-com Pull API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-pull-api/) — The Pull API from texasautoquotes-com — 1 operation(s) for pull.
+- [texasautoquotes-com Quotes API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-quotes-api/) — The Quotes API from texasautoquotes-com — 1 operation(s) for quotes.
+- [texasautoquotes-com Terms API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-terms-api/) — The Terms API from texasautoquotes-com — 1 operation(s) for terms.
+- [texasautoquotes-com Verify API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-verify-api/) — The Verify API from texasautoquotes-com — 2 operation(s) for verify.
+- [texasautoquotes-com Top Up API](https://apis.io/apis/texasautoquotes-com/texasautoquotes-com-top-up-api/) — The Top Up API from texasautoquotes-com — 1 operation(s) for top up.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Texasautoquotes Com Agentic Access](https://apis.io/agentic-access/texasautoquotes-com/texasautoquotes-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [texasautoquotes-com API Rules](https://apis.io/rules/texasautoquotes-com/texasautoquotes-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Texasautoquotes Com Authentication](https://apis.io/security/texasautoquotes-com/texasautoquotes-com-authentication/)
+- [Texasautoquotes Com Domain Security](https://apis.io/security/texasautoquotes-com/texasautoquotes-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Texasautoquotes Com Scopes](https://apis.io/scopes/texasautoquotes-com/texasautoquotes-com-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://texasautoquotes.com/)
+- [API reference](https://texasautoquotes.com/openapi.json)
+- [Pricing](https://texasautoquotes.com/rates)
+- [Sign up](https://texasautoquotes.com/join)
+- [Terms of service](https://texasautoquotes.com/terms)
+- [Privacy policy](https://texasautoquotes.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 37.7** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 37.6 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 13.6 |
+| Access clarity | 44.7 |
+
+**Agent readiness 36.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 31.6** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/texasautoquotes-com/](https://apis.io/providers/texasautoquotes-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for texasautoquotes-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/texasautoquotes-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
